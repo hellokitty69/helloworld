@@ -1,2 +1,2 @@
 # helloworld
-the first introductory progect
+the first introductory project
